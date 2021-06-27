@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anasmasti
-- I’m Web developer full stack 👨🏻‍💻
+- 👋 Hey, I’m @anasmasti
+- I'm a Full-Stack Web Developer 👨🏻‍💻
 
 <!---
 anasmasti/anasmasti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
