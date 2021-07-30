@@ -2,7 +2,7 @@
 
 <br />
 
-# 👋 Hey, <br /> I’m [@anasmasti][website], <br /> I'm a full-stack Web developer 🚀
+# 👋 Hey, <br /> I’m [@anasmasti][website], <br /> I'm a full-stack web developer 🚀
 
 <br />
 
