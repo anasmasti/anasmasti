@@ -2,7 +2,7 @@
 
 <br />
 
-# 👋🏼 Hey, <br /> I’m [Anas Masti][website], <br /> I'm a JavaScript developer 👨🏻‍💻
+# 👋🏻 Hey, <br /> I’m [Anas Masti][website], <br /> I'm a JavaScript developer 👨🏻‍💻
 
 <br />
 
