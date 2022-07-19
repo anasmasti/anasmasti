@@ -12,16 +12,16 @@
 
 <h4 align="left">Connect with me :</h4>
 <p align="left">
-  <a href="https://anasmasti.com/contact" target="blank">
+  <a href="https://anasmasti.com/contact" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.iconsdb.com/icons/preview/violet/message-2-xxl.png" alt="Direct Contact" height="30" width="30" />
   </a>
-  <a href="https://twitter.com/AnasMasti" target="blank">
+  <a href="https://twitter.com/AnasMasti" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.iconsdb.com/icons/preview/violet/twitter-xxl.png" alt="Twitter" height="30" width="30" />
   </a>
-  <a href="https://linkedin.com/in/anas-masti-616040189" target="blank">
+  <a href="https://linkedin.com/in/anas-masti-616040189" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.iconsdb.com/icons/preview/violet/linkedin-xxl.png" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="https://fb.com/anas.masti.96" target="blank">
+  <a href="https://fb.com/anas.masti.96" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.iconsdb.com/icons/preview/violet/facebook-xl.png" alt="Facebook" height="30" width="30" />
   </a>
 </p>
