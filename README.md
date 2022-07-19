@@ -12,7 +12,7 @@
 
 <h4 align="left">Connect with me :</h4>
 <p align="left">
-  <a href="/https://anasmasti.com/contact" target="blank">
+  <a href="https://anasmasti.com/contact" target="blank">
     <img align="center" src="https://www.iconsdb.com/icons/preview/violet/message-2-xxl.png" alt="Direct Contact" height="30" width="30" />
   </a>
   <a href="https://twitter.com/AnasMasti" target="blank">
