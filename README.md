@@ -1,18 +1,29 @@
 <h1 align="center">Hey 👋🏻, I'm <a href="https://anasmasti.com/"> Anas Masti</a></h1>
 <h3 align="center">Web Developer 👨🏻‍💻</h3>
 
-<p align="center"> <a href="https://twitter.com/anasmasti" target="blank"><img src="https://img.shields.io/twitter/follow/anasmasti?logo=twitter&style=for-the-badge" alt="anasmasti" /></a> </p>
+<p align="center"> 
+  <a href="https://twitter.com/anasmasti" target="blank"><img src="https://img.shields.io/twitter/follow/anasmasti?logo=twitter&style=for-the-badge" alt="anasmasti" /></a> 
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasmasti" alt="anasmasti" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasmasti" alt="anasmasti" /></a> </p>
 
 <br/>
 
 <h4 align="left">Connect with me :</h4>
 <p align="left">
-<a href="https://twitter.com/AnasMasti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasmasti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anas-masti-616040189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-masti-616040189" height="30" width="40" /></a>
-<a href="https://fb.com/anas.masti.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anas.masti.96" height="30" width="40" /></a>
-<a href="/https://anasmasti.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anasmasti.com/" height="30" width="40" /></a>
+  <a href="/https://anasmasti.com/contact" target="blank">
+    <img align="center" src="https://www.iconsdb.com/icons/preview/violet/message-2-xxl.png" alt="Direct Contact" height="30" width="30" />
+  </a>
+  <a href="https://twitter.com/AnasMasti" target="blank">
+    <img align="center" src="https://www.iconsdb.com/icons/preview/violet/twitter-xxl.png" alt="Twitter" height="30" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/anas-masti-616040189" target="blank">
+    <img align="center" src="https://www.iconsdb.com/icons/preview/violet/linkedin-xxl.png" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="https://fb.com/anas.masti.96" target="blank">
+    <img align="center" src="https://www.iconsdb.com/icons/preview/violet/facebook-xl.png" alt="Facebook" height="30" width="30" />
+  </a>
 </p>
 
 <h4 align="left">Languages and Tools :</h4>
