@@ -11,7 +11,7 @@
 <br/>
 
 <h4 align="left">Connect with me :</h4>
-<p align="left">
+<div align="left">
   <a href="https://anasmasti.com/contact" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.iconsdb.com/icons/preview/violet/message-2-xxl.png" alt="Direct Contact" height="30" width="30" />
   </a>
@@ -24,10 +24,10 @@
   <a href="https://fb.com/anas.masti.96" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.iconsdb.com/icons/preview/violet/facebook-xl.png" alt="Facebook" height="30" width="30" />
   </a>
-</p>
+</div>
 
 <h4 align="left">Languages and Tools :</h4>
-<p align="left"> 
+<div align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a> 
@@ -121,4 +121,4 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> 
   </a> 
-</p>
+</div>
