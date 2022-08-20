@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏻, I'm <a href="https://anasmasti.com/"> Anas Masti</a></h1>
-<h3 align="center">Web Developer 👨🏻‍💻</h3>
+<h3 align="center">Web/Mobile Developer 👨🏻‍💻</h3>
 
 <p align="center"> 
   <a href="https://twitter.com/anasmasti" target="blank"><img src="https://img.shields.io/twitter/follow/anasmasti?logo=twitter&style=for-the-badge" alt="anasmasti" /></a> 
