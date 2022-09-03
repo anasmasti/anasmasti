@@ -15,7 +15,7 @@
   <a href="https://anasmasti.com/contact" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.iconsdb.com/icons/preview/violet/message-2-xxl.png" alt="Direct Contact" height="30" width="30" />
   </a>
-  <a href="https://twitter.com/AnasMasti" target="_blank" rel="noreferrer">
+  <a href="https://twitter.com/anasmasti" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.iconsdb.com/icons/preview/violet/twitter-xxl.png" alt="Twitter" height="30" width="30" />
   </a>
   <a href="https://linkedin.com/in/anas-masti-616040189" target="_blank" rel="noreferrer">
