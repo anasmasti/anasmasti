@@ -13,9 +13,6 @@
 
 <h4 align="left">Connect with me :</h4>
 <div align="left">
-  <a href="https://anasmasti.com/contact" target="_blank" rel="noreferrer">
-    <img align="center" src="https://www.iconsdb.com/icons/preview/violet/message-2-xxl.png" alt="Direct Contact" height="30" width="30" />
-  </a>
   <a href="https://twitter.com/anasmasti" target="_blank" rel="noreferrer">
     <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
