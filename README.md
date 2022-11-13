@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasmasti" alt="anasmasti" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasmasti&theme=tokyonight" alt="anasmasti" /></a> 
 </p>
 
 <br/>
@@ -17,13 +17,13 @@
     <img align="center" src="https://www.iconsdb.com/icons/preview/violet/message-2-xxl.png" alt="Direct Contact" height="30" width="30" />
   </a>
   <a href="https://twitter.com/anasmasti" target="_blank" rel="noreferrer">
-    <img align="center" src="https://www.iconsdb.com/icons/preview/violet/twitter-xxl.png" alt="Twitter" height="30" width="30" />
+    <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/anas-masti-616040189" target="_blank" rel="noreferrer">
-    <img align="center" src="https://www.iconsdb.com/icons/preview/violet/linkedin-xxl.png" alt="LinkedIn" height="30" width="30" />
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/anas.masti.96" target="_blank" rel="noreferrer">
-    <img align="center" src="https://www.iconsdb.com/icons/preview/violet/facebook-xl.png" alt="Facebook" height="30" width="30" />
+    <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"  />
   </a>
 </div>
 
