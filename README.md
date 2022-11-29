@@ -13,6 +13,9 @@
 
 <h4 align="left">Connect with me :</h4>
 <div align="left">
+  <a href="https://www.anasmasti.com/contact" target="_blank" rel="noreferrer">
+    <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Anas Masti" />
+  </a>
   <a href="https://twitter.com/anasmasti" target="_blank" rel="noreferrer">
     <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
