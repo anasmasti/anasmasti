@@ -27,6 +27,6 @@
   </a>
 </div>
 
-<h4 align="left">Languages and Tools :</h4>
+<h4 align="left">⚡ Technologies</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,angular,react,next,vuejs,nuxt,redux,reactivex,nodejs,express,tailwind,bootstrap,git,jest,html,css,mongodb,mysql,vscode,xd,ps,aws)](https://www.anasmasti.com/skills)
