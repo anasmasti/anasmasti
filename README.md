@@ -11,7 +11,7 @@
 
 <br/>
 
-<h4 align="left">Connect with me :</h4>
+<h4 align="left">💬 Connect With Me</h4>
 <div align="left">
   <a href="https://www.anasmasti.com/contact" target="_blank" rel="noreferrer">
     <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Anas Masti" />
@@ -26,6 +26,8 @@
     <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"  />
   </a>
 </div>
+
+<br/>
 
 <h4 align="left">⚡ Technologies</h4>
 
