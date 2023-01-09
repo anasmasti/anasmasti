@@ -23,7 +23,7 @@
   <a href="https://twitter.com/anasmasti" target="_blank" rel="noreferrer">
     <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/anas-masti-616040189" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/anasmasti" target="_blank" rel="noreferrer">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/anas.masti.96" target="_blank" rel="noreferrer">
