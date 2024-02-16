@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋🏻<br/> I'm <a href="https://anasmasti.com/"> Anas Masti</a><br/> Frontend Developer</h2>
+<h1 align="center">Hey 👋🏻<br/> I'm <a href="https://anasmasti.com/"> Anas Masti</a><br/> Frontend Developer</h1>
 <br/>
 
 <p align="center"> 
