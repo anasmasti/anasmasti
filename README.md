@@ -1,6 +1,4 @@
-<h1 align="center">Hey 👋🏻, I'm <a href="https://anasmasti.com/"> Anas Masti</a></h1>
-<h3 align="center">Frontend Developer 👨🏻‍💻</h3>
-
+<h2 align="center">Hey 👋🏻<br/> I'm <a href="https://anasmasti.com/"> Anas Masti</a><br/> Frontend Developer</h2>
 <br/>
 
 <p align="center"> 
