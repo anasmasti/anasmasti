@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/anasmasti" target="_blank" rel="noreferrer">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/2xxmuzan" target="_blank" rel="noreferrer">
+  <a href="https://x.com/muzvn00" target="_blank" rel="noreferrer">
     <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </div>
